@@ -50,6 +50,23 @@ Streamlit will print a local URL, typically `http://localhost:8501`.
 python -m unittest -v
 ```
 
+
+## Project Demonstration
+
+### RAILMIND AI Dashboard
+
+![RAILMIND AI Dashboard](RAILMIND_Dashboard.png)
+
+### Automated Test Results
+
+![RAILMIND AI Tests](RAILMIND_Tests_Passed.png)
+
+All four automated software tests passed using pytest.
+
+## Project Limitations
+
+RAILMIND AI v1.0 is an educational prototype using synthetic railway telemetry. It has not been tested on physical railway hardware, and its anomaly-detection results are not validated for real-world safety or predictive maintenance decisions.
+
 ## How to demo
 
 1. Run the dashboard with the **Normal** scenario.
